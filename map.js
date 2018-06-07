@@ -3867,7 +3867,7 @@ function createMarkers(locationsData, markersLocation, category) {
     minHeight: 200,
     maxHeight: 286,
     minWidth: 400,
-    maxWidth: 580,
+    maxWidth: 572,
     closeSrc: 'https://www.thistle.com/d/thistle/media/insta_map_assets/black/close-btn2x_f74344.png'
   });
 
