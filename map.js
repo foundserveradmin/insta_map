@@ -3861,13 +3861,12 @@ function createMarkers(locationsData, markersLocation, category) {
     borderColor: 'transparent',
     disableAutoPan: false,
     hideCloseButton: false,
-    arrowPosition: 75,
+    arrowPosition: 50,
     backgroundClassName: 'info-content',
     arrowStyle: 0,
     minHeight: 200,
     maxHeight: 286,
     minWidth: 400,
-    maxWidth: 572,
     closeSrc: 'https://www.thistle.com/d/thistle/media/insta_map_assets/black/close-btn2x_f74344.png'
   });
 
@@ -3977,7 +3976,7 @@ function createMarkers(locationsData, markersLocation, category) {
 
       // add styles to the popup
       $('.info-content').parent().css('overflow', 'hidden');
-      $('.info-content').parent().css('box-shadow', '0px 7px 5px rgba(0, 0, 0, 0.3)');
+      $('.info-content').parent().css('rgba(0, 0, 0, 0.3) 0px 1px 1px');
 
       $('.info-content').parent().parent().css('margin-top', '-10px');
 
