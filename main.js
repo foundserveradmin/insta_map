@@ -484,7 +484,7 @@ var artsData = [
     "hashtag": "wallacecollection",
     "posts": "16,919",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/wallacecollection.jpg",
-    "copy": "Located in Manchester Square, this art gallery, established in 1897, is open to the public. It has an extensive collection of fine and decorative arts from the 15th to the 19th centuries, ",
+    "copy": "Located in Manchester Square, this art gallery, established in 1897, is open to the public. It has an extensive collection of fine and decorative arts from the 15th to the 19th centuries. ",
     "hotness": 1.1101,
     "lat": 51.517544,
     "lng": -0.152447
@@ -583,7 +583,7 @@ var artsData = [
     "hashtag": "oldbailey",
     "posts": "9,141",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/oldbailey.jpg",
-    "copy": "The Central Criminal Court of England given it's name, the Old Bailey from the street on which it stands.  The Crown Court sitting here deals with major criminal cases within London and other areas of the country in exceptional cases. As with all courts, the Old Bailey is open to the public if security measures are reached",
+    "copy": "The Central Criminal Court of England given it's name, the Old Bailey from the street on which it stands.  The Crown Court sitting here deals with major criminal cases within London and other areas of the country in exceptional cases. As with all courts, the Old Bailey is open to the public if security measures are reached.",
     "hotness": 1,
     "lat": 51.515890,
     "lng": -0.101221
@@ -740,7 +740,7 @@ var entertainmentData = [
     "hashtag": "horseguards",
     "posts": "18,451",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/horseguards.jpg",
-    "copy": "Horse Guards Parade, is a large parade ground close to Whitehall in central London, that is site to annual ceremonies of Trooping the colour performed by regiments of British and Commonwealth armies to mark the official birthday of the British sovereign. \r\n",
+    "copy": "Horse Guards Parade, is a large parade ground close to Whitehall in central London, that is site to annual ceremonies of Trooping the colour performed by regiments of British and Commonwealth armies to mark the official birthday of the British sovereign. ",
     "hotness": 1.5436,
     "lat": 51.5048871,
     "lng": -0.127036399999952
@@ -751,7 +751,7 @@ var entertainmentData = [
     "hashtag": "selhurstpark",
     "posts": "12,456",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/selhurstpark.jpg",
-    "copy": "Home to Premier League's Crystal Palace Football Club, Selhurst Park was designed by, a famous at the time, Scottish architect - Archibald Leitch and opened to the public in 1924 by the Lord Mayor of London. \r\n\r\n",
+    "copy": "Home to Premier League's Crystal Palace Football Club, Selhurst Park was designed by, a famous at the time, Scottish architect - Archibald Leitch and opened to the public in 1924 by the Lord Mayor of London. ",
     "hotness": 1.3665,
     "lat": 51.3982531,
     "lng": -0.0854867000000468
@@ -894,7 +894,7 @@ var entertainmentData = [
     "hashtag": "victoriaembankmentgardens",
     "posts": "1,382",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/victoriaembankmentgardens.jpg",
-    "copy": "\r\nLondoners much appreciated retreat from the busy Embankment area, is mostly populated by the office workers who use it as a pleasant space to eat lunch and relax. With grass and pretty flower beds spread throughout, Victoria Embankment Gardens is a perfect destination for taking time out from a busy sightseeing day. \r\n",
+    "copy": "\r\nLondoners much appreciated retreat from the busy Embankment area, is mostly populated by the office workers who use it as a pleasant space to eat lunch and relax. With grass and pretty flower beds spread throughout, Victoria Embankment Gardens is a perfect destination for taking time out from a busy sightseeing day. ",
     "hotness": 1.0394,
     "lat": 51.508168,
     "lng": -0.122067
@@ -1084,7 +1084,7 @@ var foodData = [
     "hashtag": "petershamnurseries",
     "posts": "23,052",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/petershamnurseries.jpg",
-    "copy": "Simplicity and minimalism are at the heart of Petersham Nurseries dining philosophy. The restaurant's focus is on quality ingredients and Italian flavors. Apart from a delicious dining experience, the restaurant also offers various horticulture workshops! \r\n",
+    "copy": "Simplicity and minimalism are at the heart of Petersham Nurseries dining philosophy. The restaurant's focus is on quality ingredients and Italian flavors. Apart from a delicious dining experience, the restaurant also offers various horticulture workshops! ",
     "hotness": 5.6614,
     "lat": 51.4471997,
     "lng": -0.302432400000043
@@ -1161,7 +1161,7 @@ var foodData = [
     "hashtag": "sushisambalondon",
     "posts": "8,202",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/sushisambalondon.jpg",
-    "copy": "If sky-high dining, on the 38th floor of one of London's most iconic buildings isn't the perfect photo opportunity ' we don't know what is. The eclectic mix of Japanese-Brazilian-Peruvian set in a cool surrounding make Sushi Samba a must see while in the capital.",
+    "copy": "If sky-high dining, on the 38th floor of one of London's most iconic buildings isn't the perfect photo opportunity ' we don't know what is. The eclectic mix of Japanese-Brazilian-Peruvian set in a cool surrounding make Sushi Samba a must see while in the capital. ",
     "hotness": 2.5524,
     "lat": 51.5161743,
     "lng": -0.0809401999999864
@@ -1483,7 +1483,7 @@ var gemsData = [
     "hashtag": "popbrixton",
     "posts": "27,514",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/popbrixton.jpg",
-    "copy": "Pop Brixton is a pop up project that has given new life to disused land and turned it into a creative space for local, independent businesses. Check out the website for details on what's up and coming ",
+    "copy": "Pop Brixton is a pop up project that has given new life to disused land and turned it into a creative space for local, independent businesses. Check out the website for details on what's up and coming. ",
     "hotness": 10,
     "lat": 51.4633416,
     "lng": -0.112341600000036
@@ -1926,7 +1926,7 @@ var landmarksData = [
     "hashtag": "bigben",
     "posts": "2,803,311",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/bigben.jpg",
-    "copy": "Big Ben is the name given to the Great Bell of the clock residing over the north end of the Palace of Westminster. When visiting London for the first time, this is a must see and makes up a large percentage of London tagged instagram posts",
+    "copy": "Big Ben is the name given to the Great Bell of the clock residing over the north end of the Palace of Westminster. When visiting London for the first time, this is a must see and makes up a large percentage of London tagged instagram posts.",
     "hotness": 10,
     "lat": 51.5007292,
     "lng": -0.124625400000014
@@ -1937,7 +1937,7 @@ var landmarksData = [
     "hashtag": "londoneye",
     "posts": "2,349,774",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/londoneye.jpg",
-    "copy": "A giant ferris wheel located alongside the South Bank of the River Thames. Take a ride on the wheel if you want spectcaular views over the whole of London. A great location for all ages",
+    "copy": "A giant ferris wheel located alongside the South Bank of the River Thames. Take a ride on the wheel if you want spectcaular views over the whole of London. A great location for all ages.",
     "hotness": 8.5264,
     "lat": 51.503324,
     "lng": -0.119543000000021
@@ -1948,7 +1948,7 @@ var landmarksData = [
     "hashtag": "towerbridge",
     "posts": "1,552,808",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/towerbridge.jpg",
-    "copy": "One of the most iconic landmarks in London, Tower Bridge is located near the Tower of London and is a bascule and suspension bridge crossing the River Thames. The deck is freely accesible to both cars and pedestrians but the upper deck forms part of the Tower Bridge Exhibition and holds an admin charge",
+    "copy": "One of the most iconic landmarks in London, Tower Bridge is located near the Tower of London and is a bascule and suspension bridge crossing the River Thames. The deck is freely accesible to both cars and pedestrians but the upper deck forms part of the Tower Bridge Exhibition and holds an admin charge.",
     "hotness": 5.937,
     "lat": 51.5054564,
     "lng": -0.0753564999999981
@@ -1959,7 +1959,7 @@ var landmarksData = [
     "hashtag": "southbank",
     "posts": "1,075,220",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/southbank.jpg",
-    "copy": "Southbank is the name given to a central area of London situatated along the Ssuth bank of the River Thames. A popular area during the summertime due to food markets, open air resturants and bars and street performers. If you are looking for a fun and lighthearted way to spend a few hours, this is the place for you",
+    "copy": "Southbank is the name given to a central area of London situatated along the Ssuth bank of the River Thames. A popular area during the summertime due to food markets, open air resturants and bars and street performers. If you are looking for a fun and lighthearted way to spend a few hours, this is the place for you.",
     "hotness": 4.3853,
     "lat": 51.5071591,
     "lng": -0.115485799999988
@@ -1970,7 +1970,7 @@ var landmarksData = [
     "hashtag": "coventgarden",
     "posts": "911,862",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/coventgarden.jpg",
-    "copy": "Londons main theatre and entertainment area, Covent Garden is located in Londons West End. Both locals and tourists fill the elegant, car-free plaza to look in the shops, eat delicious food and even catch a show at the Royal Opera House",
+    "copy": "Londons main theatre and entertainment area, Covent Garden is located in Londons West End. Both locals and tourists fill the elegant, car-free plaza to look in the shops, eat delicious food and even catch a show at the Royal Opera House.",
     "hotness": 3.8545,
     "lat": 51.5117797,
     "lng": -0.123191099999985
@@ -1981,7 +1981,7 @@ var landmarksData = [
     "hashtag": "buckinghampalace",
     "posts": "765,746",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/buckinghampalace.jpg",
-    "copy": "Buckingham Palace has served as the offical London residence of the UK's royal family since 1837 and today is the administrative headquaters for Queen Elizabeth. Visitors flock here daily to see the Changing of the Guard and during the summer months the state rooms are open to the public",
+    "copy": "Buckingham Palace has served as the offical London residence of the UK's royal family since 1837 and today is the administrative headquaters for Queen Elizabeth. Visitors flock here daily to see the Changing of the Guard and during the summer months the state rooms are open to the public.",
     "hotness": 3.3798,
     "lat": 51.501364,
     "lng": -0.141889999999989
@@ -1992,7 +1992,7 @@ var landmarksData = [
     "hashtag": "bricklane",
     "posts": "756,378",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/bricklane.jpg",
-    "copy": "Brick Lane is a street in east London. Spend a Sunday roaming the lane, hunting for antiques, vintage clothes and records, there is definately a bargin to be found. Don't forget to fuel up in one of the many resturants on offer",
+    "copy": "Brick Lane is a street in east London. Spend a Sunday roaming the lane, hunting for antiques, vintage clothes and records, there is definately a bargin to be found. Don't forget to fuel up in one of the many resturants on offer.",
     "hotness": 3.3493,
     "lat": 51.5220012,
     "lng": -0.0716827999999623
@@ -2003,7 +2003,7 @@ var landmarksData = [
     "hashtag": "londonbridge",
     "posts": "739,165",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/londonbridge.jpg",
-    "copy": "Over time there have been several bridges named London Bridge, the current crossing opened in 1973. The bridge has featured in popular nursery rhyme 'London Bridge is falling down'  ",
+    "copy": "Over time there have been several bridges named London Bridge, the current crossing opened in 1973. The bridge has featured in popular nursery rhyme 'London Bridge is falling down'.",
     "hotness": 3.2934,
     "lat": 51.508018,
     "lng": -0.087374
@@ -2014,7 +2014,7 @@ var landmarksData = [
     "hashtag": "oxfordstreet",
     "posts": "630,004",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/oxfordstreet.jpg",
-    "copy": "Attracting over half a million visitors a day, Oxford Street is home to over 300 major department stores and flagship retail stores. With everything you could ever need in walking distance, it's no wonder it's one of Londons most popular destinations",
+    "copy": "Attracting over half a million visitors a day, Oxford Street is home to over 300 major department stores and flagship retail stores. With everything you could ever need in walking distance, it's no wonder it's one of Londons most popular destinations.",
     "hotness": 2.9387,
     "lat": 51.515150,
     "lng": -0.144583
@@ -2025,7 +2025,7 @@ var landmarksData = [
     "hashtag": "theshard",
     "posts": "561,303",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/theshard.jpg",
-    "copy": "If you are scared of heights, this one isn't for you! Standing tall at 309.7 metres, the Shard is the tallest building in both the UK and the European Union. Primarly made up of offices, the Shard does offer a viewing platform for tourists. Don't forget to book yourself into the resturant for great food and panoramic views of the city",
+    "copy": "If you are scared of heights, this one isn't for you! Standing tall at 309.7 metres, the Shard is the tallest building in both the UK and the European Union. Primarly made up of offices, the Shard does offer a viewing platform for tourists. Don't forget to book yourself into the resturant for great food and panoramic views of the city.",
     "hotness": 2.7155,
     "lat": 51.504526,
     "lng": -0.085272
@@ -2036,7 +2036,7 @@ var landmarksData = [
     "hashtag": "trafalgarsquare",
     "posts": "425,381",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/trafalgarsquare.jpg",
-    "copy": "A public square based in the City of Westminster. It's name commemorates the Battle of Trafalgar. Nelson's Column, a 169 foot statue, can be found in the centre guarded by four lion statues",
+    "copy": "A public square based in the City of Westminster. It's name commemorates the Battle of Trafalgar. Nelson's Column, a 169 foot statue, can be found in the centre guarded by four lion statues.",
     "hotness": 2.2739,
     "lat": 51.508143,
     "lng": -0.127915
@@ -2047,7 +2047,7 @@ var landmarksData = [
     "hashtag": "toweroflondon",
     "posts": "399,054",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/toweroflondon.jpg",
-    "copy": "The Tower of London is a historic castle located on the north bank of the River Thames. The Crown Jewels of England are held in the tower. It has besieged several times and controlling the tower has been important to controlling the country. Tourists flock to see and explore the Tower of London and it is advised to book your tickets in advance ",
+    "copy": "The Tower of London is a historic castle located on the north bank of the River Thames. The Crown Jewels of England are held in the tower. It has besieged several times and controlling the tower has been important to controlling the country. Tourists flock to see and explore the Tower of London and it is advised to book your tickets in advance.",
     "hotness": 2.1883,
     "lat": 51.5081124,
     "lng": -0.0759493000000475
@@ -2058,7 +2058,7 @@ var landmarksData = [
     "hashtag": "piccadilly",
     "posts": "324,368",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/piccadilly.jpg",
-    "copy": "Piccadily is a road in the City of Westminster joining Hyde Park Corner and Piccadily Circus. It also makes up one of the groups on the London Monopoly board",
+    "copy": "Piccadily is a road in the City of Westminster joining Hyde Park Corner and Piccadily Circus. It also makes up one of the groups on the London Monopoly board.",
     "hotness": 1.9457,
     "lat": 51.5087668,
     "lng": -0.138207800000032
@@ -2069,7 +2069,7 @@ var landmarksData = [
     "hashtag": "londonunderground",
     "posts": "300,667",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/londonunderground.jpg",
-    "copy": "The London Underground is a public transport system serving London and some adjacent counties. The network is made up of 270 stations, serviced by 11 different lines. The Underground is easy to navigate thanks to its colour coded design",
+    "copy": "The London Underground is a public transport system serving London and some adjacent counties. The network is made up of 270 stations, serviced by 11 different lines. The Underground is easy to navigate thanks to its colour coded design.",
     "hotness": 1.8687,
     "lat": 51.508591,
     "lng": -0.124600
@@ -2091,7 +2091,7 @@ var landmarksData = [
     "hashtag": "stpaulscathedral",
     "posts": "236,293",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/stpaulscathedral.jpg",
-    "copy": "An Anglican cathedral that sits on Ludgate Hill at the highest point of the City of London. The cathedral is one of Londons most recognisable landmarks and its dome has dominated the London skyline for over 300 years. St Pauls Cathedral is open to the public, be sure to check visiting times and buy tickets online to avoid disapointment",
+    "copy": "An Anglican cathedral that sits on Ludgate Hill at the highest point of the City of London. The cathedral is one of Londons most recognisable landmarks and its dome has dominated the London skyline for over 300 years. St Pauls Cathedral is open to the public, be sure to check visiting times and buy tickets online to avoid disapointment.",
     "hotness": 1.6595,
     "lat": 51.5138453,
     "lng": -0.0983506000000034
@@ -2102,7 +2102,7 @@ var landmarksData = [
     "hashtag": "leicestersquare",
     "posts": "184,991",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/leicestersquare.jpg",
-    "copy": "Leicester Square can only be described as Londons home of entertainment. From West End shows to star studded premiers, grab a drink and a bite to eat and watch the world go by",
+    "copy": "Leicester Square can only be described as Londons home of entertainment. From West End shows to star studded premiers, grab a drink and a bite to eat and watch the world go by.",
     "hotness": 1.4928,
     "lat": 51.510785,
     "lng": -0.129631
@@ -2113,7 +2113,7 @@ var landmarksData = [
     "hashtag": "westminsterabbey",
     "posts": "179,088",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/westminsterabbey.jpg",
-    "copy": "The Abbey we see today was built by Henry III in 1245, it is seen as one of the most important Gothic buildings in the UK and has the shrine of an Anglo-Saxon saint at its heart. Westminster Abbey is open for visitors all year round",
+    "copy": "The Abbey we see today was built by Henry III in 1245, it is seen as one of the most important Gothic buildings in the UK and has the shrine of an Anglo-Saxon saint at its heart. Westminster Abbey is open for visitors all year round.",
     "hotness": 1.4737,
     "lat": 51.4992921,
     "lng": -0.127309700000069
@@ -2124,7 +2124,7 @@ var landmarksData = [
     "hashtag": "lombardstreet",
     "posts": "178,843",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/lombardstreet.jpg",
-    "copy": "Lombard Street is notable for its connections to the banking and finance industries within London, dating back to medieval times. Located at Bank junction, Lombard Street is one of nine roads that converge by the Bank of England",
+    "copy": "Lombard Street is notable for its connections to the banking and finance industries within London, dating back to medieval times. Located at Bank junction, Lombard Street is one of nine roads that converge by the Bank of England.",
     "hotness": 1.4729,
     "lat": 51.512854,
     "lng": -0.087119
@@ -2135,7 +2135,7 @@ var landmarksData = [
     "hashtag": "themall",
     "posts": "174,931",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/themall.jpg",
-    "copy": "The Mall is a road running between Buckingham Palace and Tralgar Square through Admiralty Arch.The Mall began as a field for playing Pall-mall. Lined with trees the Mall was envisioned as a ceremonial route similar to Berlin and Washington DC. Annually The Mall is the finishing location for the Virgin London Marathon  ",
+    "copy": "The Mall is a road running between Buckingham Palace and Tralgar Square through Admiralty Arch.The Mall began as a field for playing Pall-mall. Lined with trees the Mall was envisioned as a ceremonial route similar to Berlin and Washington DC. Annually The Mall is the finishing location for the Virgin London Marathon.",
     "hotness": 1.4601,
     "lat": 51.5046485,
     "lng": -0.13387309999996
@@ -2157,7 +2157,7 @@ var landmarksData = [
     "hashtag": "parklane",
     "posts": "124,264",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/parklane.jpg",
-    "copy": "Park Lane is a major road in Central London, connecting Hyde Park Corner in the south with Marble Arch in the north. It acts as a divide between Hyde Park and Mayfair. Modern day Park Lane is famous for its array of luxury hotels, in particular The Dorchester",
+    "copy": "Park Lane is a major road in Central London, connecting Hyde Park Corner in the south with Marble Arch in the north. It acts as a divide between Hyde Park and Mayfair. Modern day Park Lane is famous for its array of luxury hotels, in particular The Dorchester.",
     "hotness": 1.2955,
     "lat": 51.508429,
     "lng": -0.154634
@@ -2168,7 +2168,7 @@ var landmarksData = [
     "hashtag": "alexandrapalace",
     "posts": "105,016",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/alexandrapalace.jpg",
-    "copy": "Alexandra Palace, also know as 'Ally Pally' is a grad II listed building located between Muswell Hill and Wood Green. Containing a concert hall, Ally Pally has hosted some of the worlds biggest music stars ",
+    "copy": "Alexandra Palace, also know as 'Ally Pally' is a grad II listed building located between Muswell Hill and Wood Green. Containing a concert hall, Ally Pally has hosted some of the worlds biggest music stars.",
     "hotness": 1.233,
     "lat": 51.5941783,
     "lng": -0.130773299999987
@@ -2179,7 +2179,7 @@ var landmarksData = [
     "hashtag": "heathrowairport",
     "posts": "103,089",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/heathrowairport.jpg",
-    "copy": "Heathrow Airport is a major international airport located on the outskirts of London. Heathrow serves as a gateway to not only Europe but also to the rest of the world. The airport is one of the top five busiest airports in the world",
+    "copy": "Heathrow Airport is a major international airport located on the outskirts of London. Heathrow serves as a gateway to not only Europe but also to the rest of the world. The airport is one of the top five busiest airports in the world.",
     "hotness": 1.2267,
     "lat": 51.4700223,
     "lng": -0.454295499999944
@@ -2201,7 +2201,7 @@ var landmarksData = [
     "hashtag": "hamptoncourtpalace",
     "posts": "79,377",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hamptoncourtpalace.jpg",
-    "copy": "Hampton Court Palace, is a royal palace found in Richmond. The palace is open to the public and is a major London tourist attraction. The palace is the perfect place for families due to the family friendly educational activies put on daily. Don't forget to spend an hour getting lost in the infamous gardens",
+    "copy": "Hampton Court Palace, is a royal palace found in Richmond. The palace is open to the public and is a major London tourist attraction. The palace is the perfect place for families due to the family friendly educational activies put on daily. Don't forget to spend an hour getting lost in the infamous gardens.",
     "hotness": 1.1497,
     "lat": 51.4036128,
     "lng": -0.337762300000009
@@ -2212,7 +2212,7 @@ var landmarksData = [
     "hashtag": "mansionhouse",
     "posts": "74,244",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/mansionhouse.jpg",
-    "copy": "Mansion House is located in the heart of the city above Bank station, in a Grade I listed building. It is the official residence of the Lord Mayor of London ",
+    "copy": "Mansion House is located in the heart of the city above Bank station, in a Grade I listed building. It is the official residence of the Lord Mayor of London.",
     "hotness": 1.133,
     "lat": 51.513007,
     "lng": -0.0895090000000209
@@ -2223,7 +2223,7 @@ var landmarksData = [
     "hashtag": "haymarket",
     "posts": "73,479",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/haymarket.jpg",
-    "copy": "A busy street nestled in the St. Jame's area of the city. It is a prominant part of London's theatre district in the West End. Top tip: Grab tickets to see a show at the Theatre Royal Haymarket",
+    "copy": "A busy street nestled in the St. Jame's area of the city. It is a prominant part of London's theatre district in the West End. Top tip: Grab tickets to see a show at the Theatre Royal Haymarket.",
     "hotness": 1.1305,
     "lat": 51.5088407,
     "lng": -0.132013700000016
@@ -2234,7 +2234,7 @@ var landmarksData = [
     "hashtag": "whitehall",
     "posts": "71,714",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/whitehall.jpg",
-    "copy": "A main road running through the City of Westminster, linking Trafalgar Square to Chelsea. The street is recognised as the centre of the Government of the United Kingdom, You'll be able to find numerous departments and ministries, including the Ministry of Defence",
+    "copy": "A main road running through the City of Westminster, linking Trafalgar Square to Chelsea. The street is recognised as the centre of the Government of the United Kingdom, You'll be able to find numerous departments and ministries, including the Ministry of Defence.",
     "hotness": 1.1248,
     "lat": 51.504966,
     "lng": -0.126367
@@ -2245,7 +2245,7 @@ var landmarksData = [
     "hashtag": "kingscrossstation",
     "posts": "62,503",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/kingscrossstation.jpg",
-    "copy": "Kings Cross railway station is one of busiest railway stations in the UK. Situated on the northern edge of the city, it connects London with many destinations in the UK. The station was made famous by its inclusion in the Harry Potter franchise, at any time of day you will see fans and tourists lining up to take a photo at platform 9 3/4",
+    "copy": "Kings Cross railway station is one of busiest railway stations in the UK. Situated on the northern edge of the city, it connects London with many destinations in the UK. The station was made famous by its inclusion in the Harry Potter franchise, at any time of day you will see fans and tourists lining up to take a photo at platform 9 3/4.",
     "hotness": 1.0949,
     "lat": 51.5316396,
     "lng": -0.124423100000058
@@ -2256,7 +2256,7 @@ var landmarksData = [
     "hashtag": "sloanesquare",
     "posts": "60,473",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/sloanesquare.jpg",
-    "copy": "If you are looking a glamourous shopping location, look no futher then Sloane Square. Found in 'the heart of Chelsea', it is situated at the intersection of Kings Road and Sloane Street. You'll find plenty of shopping, culture and food",
+    "copy": "If you are looking a glamourous shopping location, look no futher then Sloane Square. Found in 'the heart of Chelsea', it is situated at the intersection of Kings Road and Sloane Street. You'll find plenty of shopping, culture and food.",
     "hotness": 1.0883,
     "lat": 51.4927325,
     "lng": -0.157370799999967
@@ -2267,7 +2267,7 @@ var landmarksData = [
     "hashtag": "marblearch",
     "posts": "54,532",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/marblearch.jpg",
-    "copy": "A 19th century white marble arch located on the north east side of Hyde Park. The arch was designed in 1827 to be the state entrance to Buckingham Palace, it was moved to Park Lane in the 1960's. Historically only members of the Royal Family, the Kings Troop and the Royal Horse Artillery were permitted to pass through",
+    "copy": "A 19th century white marble arch located on the north east side of Hyde Park. The arch was designed in 1827 to be the state entrance to Buckingham Palace, it was moved to Park Lane in the 1960's. Historically only members of the Royal Family, the Kings Troop and the Royal Horse Artillery were permitted to pass through.",
     "hotness": 1.069,
     "lat": 51.5131099,
     "lng": -0.158914800000048
@@ -2278,7 +2278,7 @@ var landmarksData = [
     "hashtag": "guildhall",
     "posts": "50,532",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/guildhall.jpg",
-    "copy": "Guidhall is a Grade II listed building found in the heart of the City. Steeped in tradition, visitors can experience Gothic grandeur and the largest surving medieval crypts",
+    "copy": "Guidhall is a Grade II listed building found in the heart of the City. Steeped in tradition, visitors can experience Gothic grandeur and the largest surving medieval crypts.",
     "hotness": 1.056,
     "lat": 51.5158998,
     "lng": -0.0919877999999699
@@ -2289,7 +2289,7 @@ var landmarksData = [
     "hashtag": "herontower",
     "posts": "48,338",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/herontower.jpg",
-    "copy": "Home to the infamous Duck and Waffle resturant, the Heron Tower can be found at 110 Bishopsgate. For the best panoramic views and experimental dishes it's worth a visit. Don't forget to book a table",
+    "copy": "Home to the infamous Duck and Waffle resturant, the Heron Tower can be found at 110 Bishopsgate. For the best panoramic views and experimental dishes it's worth a visit. Don't forget to book a table.",
     "hotness": 1.0488,
     "lat": 51.5162529,
     "lng": -0.0809448999999631
@@ -2300,7 +2300,7 @@ var landmarksData = [
     "hashtag": "oxotower",
     "posts": "44,556",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/oxotower.jpg",
-    "copy": "The Oxo Tower is a prominent feature along London's south bank. Filled with resturants, cafes and bars, the tower is also used as an exhibition space and has been used by many of the country's most innovative contemporary designers",
+    "copy": "The Oxo Tower is a prominent feature along London's south bank. Filled with resturants, cafes and bars, the tower is also used as an exhibition space and has been used by many of the country's most innovative contemporary designers.",
     "hotness": 1.0365,
     "lat": 51.5083234,
     "lng": -0.108850100000041
@@ -2311,7 +2311,7 @@ var landmarksData = [
     "hashtag": "batterseapowerstation",
     "posts": "41,381",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/batterseapowerstation.jpg",
-    "copy": "Battersea Power Station is an unusued coal-fire power station located in south west London. The iconic Grad II listed building and it's surrounding area is being bought back to life as one of Londons most exciting and innovative areas",
+    "copy": "Battersea Power Station is an unusued coal-fire power station located in south west London. The iconic Grad II listed building and it's surrounding area is being bought back to life as one of Londons most exciting and innovative areas.",
     "hotness": 1.0262,
     "lat": 51.4818235,
     "lng": -0.144398300000034
@@ -2333,7 +2333,7 @@ var landmarksData = [
     "hashtag": "hmsbelfast",
     "posts": "38,398",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hmsbelfast.jpg",
-    "copy": "A Town-class light cruiser designed and built for the Royal Navy. You'll now find the HMS Belfast permentantly moored as a museum ship on the River Thames. A great location for history fans and familes",
+    "copy": "A Town-class light cruiser designed and built for the Royal Navy. You'll now find the HMS Belfast permentantly moored as a museum ship on the River Thames. A great location for history fans and familes.",
     "hotness": 1.0165,
     "lat": 51.506579,
     "lng": -0.0813889999999446
@@ -2344,7 +2344,7 @@ var landmarksData = [
     "hashtag": "palaceofwestminster",
     "posts": "35,484",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/palaceofwestminster.jpg",
-    "copy": "The meeting place of the House of Commons and the House of Lords, the two houses of the Parliment of the United Kingdom. The name derived from the neighbouring Westminster Abbey and is located on the north bank of the River Thames. A must see if you are visiting London for the first time",
+    "copy": "The meeting place of the House of Commons and the House of Lords, the two houses of the Parliment of the United Kingdom. The name derived from the neighbouring Westminster Abbey and is located on the north bank of the River Thames. A must see if you are visiting London for the first time.",
     "hotness": 1.0071,
     "lat": 51.4994794,
     "lng": -0.124809199999959
@@ -2355,7 +2355,7 @@ var landmarksData = [
     "hashtag": "bttower",
     "posts": "33,308",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/bttower.jpg",
-    "copy": "The BT Tower is a working communications tower located in Fitzrovia, London. Up until 1980 it was known as being the tallest building in London. The tower featured in Harry Potter and the Chamber of Secrets, when an enchanted Ford Anglia 105E flying above",
+    "copy": "The BT Tower is a working communications tower located in Fitzrovia, London. Up until 1980 it was known as being the tallest building in London. The tower featured in Harry Potter and the Chamber of Secrets, when an enchanted Ford Anglia 105E flying above.",
     "hotness": 1,
     "lat": 51.5214598,
     "lng": -0.138896400000021
@@ -2413,7 +2413,7 @@ var parksData = [
     "hashtag": "richmondpark",
     "posts": "223,279",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/richmondpark.jpg",
-    "copy": "If you've always dreamed of visiting a deer park, head over to Richmond Park. This 17th century park is of national and international importance for wildlife conservation. And yes, the deer will pose patiently until you take the perfect Instagram photo",
+    "copy": "If you've always dreamed of visiting a deer park, head over to Richmond Park. This 17th century park is of national and international importance for wildlife conservation. And yes, the deer will pose patiently until you take the perfect Instagram photo.",
     "hotness": 2.1854,
     "lat": 51.4463869,
     "lng": -0.275772700000061
@@ -2424,7 +2424,7 @@ var parksData = [
     "hashtag": "greenpark",
     "posts": "217,576",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/greenpark.jpg",
-    "copy": "Sightseeing in a city like London can be exhausting. And if you happen to be near Buckingham Palace, pop over to Green Park to take a breather. Situated in the heart of the city, this 47-acre patch of green is the ultimate spot for that all important holiday snap",
+    "copy": "Sightseeing in a city like London can be exhausting. And if you happen to be near Buckingham Palace, pop over to Green Park to take a breather. Situated in the heart of the city, this 47-acre patch of green is the ultimate spot for that all important holiday snap.",
     "hotness": 2.1537,
     "lat": 51.5039038,
     "lng": -0.143856700000015
@@ -2446,7 +2446,7 @@ var parksData = [
     "hashtag": "hampsteadheath",
     "posts": "160,389",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hampsteadheath.jpg",
-    "copy": "Three open-air swimming pools and a chain of ponds, that's what Hampstead Heath has to offer aside from its 790 acres of green space. And you'll struggle to find a better backdrop for the ultimate Instagram shot during the summer months",
+    "copy": "Three open-air swimming pools and a chain of ponds, that's what Hampstead Heath has to offer aside from its 790 acres of green space. And you'll struggle to find a better backdrop for the ultimate Instagram shot during the summer months.",
     "hotness": 1.8359,
     "lat": 51.5608421,
     "lng": -0.163137600000027
@@ -2457,7 +2457,7 @@ var parksData = [
     "hashtag": "hollandpark",
     "posts": "129,818",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hollandpark.jpg",
-    "copy": "Famous for its two Japanese gardens - the Kyoto Garden and Fukushima Memorial Garden, Holland Park is one of London's most stunning green spaces. So, if you don't fancy a 12-hour journey to Japan, head over to Holland Park and take some photos that will most definitely fool your friends",
+    "copy": "Famous for its two Japanese gardens - the Kyoto Garden and Fukushima Memorial Garden, Holland Park is one of London's most stunning green spaces. So, if you don't fancy a 12-hour journey to Japan, head over to Holland Park and take some photos that will most definitely fool your friends.",
     "hotness": 1.6659,
     "lat": 51.5032252,
     "lng": -0.203666800000065
@@ -2468,7 +2468,7 @@ var parksData = [
     "hashtag": "kensingtongardens",
     "posts": "108,709",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/kensingtongardens.jpg",
-    "copy": "Origionally created by Henry VIII in 1536 to be used as a hunting ground, Kensington Gardens are Grade I listed on the the Register of Historic Parks and Gardens, making for some great images. Find them on the western side of Hyde Park",
+    "copy": "Origionally created by Henry VIII in 1536 to be used as a hunting ground, Kensington Gardens are Grade I listed on the the Register of Historic Parks and Gardens, making for some great images. Find them on the western side of Hyde Park.",
     "hotness": 1.5486,
     "lat": 51.507033,
     "lng": -0.178764
@@ -2479,7 +2479,7 @@ var parksData = [
     "hashtag": "finsburypark",
     "posts": "104,859",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/finsburypark.jpg",
-    "copy": "A public park found in Harringay, north London. Facilities include an athletic stadium, skatepark and football pitches. Unusually, the park is home to both an American football field and softabll and baseball fields",
+    "copy": "A public park found in Harringay, north London. Facilities include an athletic stadium, skatepark and football pitches. Unusually, the park is home to both an American football field and softabll and baseball fields.",
     "hotness": 1.5272,
     "lat": 51.571069,
     "lng": -0.100848
@@ -2490,7 +2490,7 @@ var parksData = [
     "hashtag": "blackheath",
     "posts": "100,675",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/blackheath.jpg",
-    "copy": "A vast green space, found near Greenwich. Blackheath is the home to one of the London marathon starting pens and features firmly on runners social media accounts ",
+    "copy": "A vast green space, found near Greenwich. Blackheath is the home to one of the London marathon starting pens and features firmly on runners social media accounts. ",
     "hotness": 1.504,
     "lat": 51.4658393,
     "lng": 0.00903379999999743
@@ -2501,7 +2501,7 @@ var parksData = [
     "hashtag": "queenspark",
     "posts": "99,379",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/queenspark.jpg",
-    "copy": "Queens Park is seen as one of the most affluent areas, located in north London. It's a beautiful park with cafe facilities and stunning gardens for everyone to enjoy. Nearest station: Kilburn",
+    "copy": "Queens Park is seen as one of the most affluent areas, located in north London. It's a beautiful park with cafe facilities and stunning gardens for everyone to enjoy. Nearest station: Kilburn.",
     "hotness": 1.4968,
     "lat": 51.5333813,
     "lng": -0.208923000000027
@@ -2512,7 +2512,7 @@ var parksData = [
     "hashtag": "batterseapark",
     "posts": "97,491",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/batterseapark.jpg",
-    "copy": "A 200-acre green park, found in Wandsworth, South London. You'll find a childrens zoo, a running track and a boating lake to keep you entertained",
+    "copy": "A 200-acre green park, found in Wandsworth, South London. You'll find a childrens zoo, a running track and a boating lake to keep you entertained.",
     "hotness": 1.4863,
     "lat": 51.4791075,
     "lng": -0.156498100000022
@@ -2523,7 +2523,7 @@ var parksData = [
     "hashtag": "greenwichpark",
     "posts": "95,775",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/greenwichpark.jpg",
-    "copy": "Greenwich Park makes up one of the largest green spaces in south east London. Formerly a hunting park, the park is now home to tourists and locals trying to escape the city. Situated along the River Thames, you'll see one of London's most iconic views",
+    "copy": "Greenwich Park makes up one of the largest green spaces in south east London. Formerly a hunting park, the park is now home to tourists and locals trying to escape the city. Situated along the River Thames, you'll see one of London's most iconic views.",
     "hotness": 1.4767,
     "lat": 51.4769095,
     "lng": 0.00146429999995235
@@ -2534,7 +2534,7 @@ var parksData = [
     "hashtag": "londonfields",
     "posts": "91,162",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/londonfields.jpg",
-    "copy": "The green space, located centrally in East London, is home to one of the cities best outdoor lido's. Broadway market is found on the south side of the fields where independent food stalls and resturants can be found",
+    "copy": "The green space, located centrally in East London, is home to one of the cities best outdoor lido's. Broadway market is found on the south side of the fields where independent food stalls and resturants can be found.",
     "hotness": 1.4511,
     "lat": 51.5422923,
     "lng": -0.0615099999999984
@@ -2545,7 +2545,7 @@ var parksData = [
     "hashtag": "claphamcommon",
     "posts": "87,041",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/claphamcommon.jpg",
-    "copy": "A large triangular urban park found in Clapham, south London. It was converted into parkland in 1878. The park contains three ponds, a modern paddling pool alongside various sports facilities. During the summer months the park is packed with locals and tourists enjoying picnics and bbq's. Don't forget your camera",
+    "copy": "A large triangular urban park found in Clapham, south London. It was converted into parkland in 1878. The park contains three ponds, a modern paddling pool alongside various sports facilities. During the summer months the park is packed with locals and tourists enjoying picnics and bbq's. Don't forget your camera.",
     "hotness": 1.4282,
     "lat": 51.4584523,
     "lng": -0.149260899999945
@@ -2556,7 +2556,7 @@ var parksData = [
     "hashtag": "memorialpark",
     "posts": "71,971",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/memorialpark.jpg",
-    "copy": "Kensington Memorial Park has a water play area, a large playground (space themed) and a One O'Clock Club. It's a great place to take the kids, and even better, it's all free",
+    "copy": "Kensington Memorial Park has a water play area, a large playground (space themed) and a One O'Clock Club. It's a great place to take the kids, and even better, it's all free.",
     "hotness": 1.3444,
     "lat": 51.520860,
     "lng": -0.219444
@@ -2578,7 +2578,7 @@ var parksData = [
     "hashtag": "eppingforest",
     "posts": "47,995",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/eppingforest.jpg",
-    "copy": "Formerly a Royal Forest, Epping Forest is an ancient woodland found stradling the boader between Greater London and Essex. Epping Forest is popular among trail runners and hikers trying to get out of the city",
+    "copy": "Formerly a Royal Forest, Epping Forest is an ancient woodland found stradling the boader between Greater London and Essex. Epping Forest is popular among trail runners and hikers trying to get out of the city.",
     "hotness": 1.2112,
     "lat": 51.664777,
     "lng": 0.042678
@@ -2589,7 +2589,7 @@ var parksData = [
     "hashtag": "paradisepark",
     "posts": "37,228",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/paradisepark.jpg",
-    "copy": "Paradise Park is a popular park  based in Islington. Located next to Freighliners City Farm, you can see why it is an attractive option for families. There are lots of things to do in the park including sports and enjoying the playground",
+    "copy": "Paradise Park is a popular park  based in Islington. Located next to Freighliners City Farm, you can see why it is an attractive option for families. There are lots of things to do in the park including sports and enjoying the playground.",
     "hotness": 1.1513,
     "lat": 51.548501,
     "lng": -0.111855999999989
@@ -2600,7 +2600,7 @@ var parksData = [
     "hashtag": "brockwellpark",
     "posts": "33,392",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/brockwellpark.jpg",
-    "copy": "Located conviniently between Brixton, Herne Hill and Tulse Hill in south London. The park provides spectacular views of the skyline of central London, no wonder it boasts 4 million visits a year. Singer Adele is said to prefer \"sitting in Brockwell Park with my friends, drinking cider\", if it's good enough for Adele, it's good enough for us",
+    "copy": "Located conviniently between Brixton, Herne Hill and Tulse Hill in south London. The park provides spectacular views of the skyline of central London, no wonder it boasts 4 million visits a year. Singer Adele is said to prefer \"sitting in Brockwell Park with my friends, drinking cider\", if it's good enough for Adele, it's good enough for us.",
     "hotness": 1.13,
     "lat": 51.4498717,
     "lng": -0.109200800000053
@@ -2611,7 +2611,7 @@ var parksData = [
     "hashtag": "parsonsgreen",
     "posts": "32,657",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/parsonsgreen.jpg",
-    "copy": "Parsons Green is a residential district in Fulham, west London. The green is triangular in shape and is bounded by the New Kings Road",
+    "copy": "Parsons Green is a residential district in Fulham, west London. The green is triangular in shape and is bounded by the New Kings Road.",
     "hotness": 1.1259,
     "lat": 51.4753102,
     "lng": -0.201053300000012
@@ -2622,7 +2622,7 @@ var parksData = [
     "hashtag": "wimbledoncommon",
     "posts": "23,618",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/wimbledoncommon.jpg",
-    "copy": "A large common including ponds, a nature trail and a windmill. Situated in south west London and providing muddy trails this is a runners paradise, with many races taking place weekly. Don't forget to look out for a Womble on your travels",
+    "copy": "A large common including ponds, a nature trail and a windmill. Situated in south west London and providing muddy trails this is a runners paradise, with many races taking place weekly. Don't forget to look out for a Womble on your travels.",
     "hotness": 1.0757,
     "lat": 51.4366449,
     "lng": -0.233546899999965
@@ -2633,7 +2633,7 @@ var parksData = [
     "hashtag": "clissoldpark",
     "posts": "23,304",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/clissoldpark.jpg",
-    "copy": "One of Hackney's best loved parks, Cissold Park is an open space in Stoke Newington, east London. A great place to escape from the business of the city with facilities including a paddling pool, a multi use games area and even a butterfly dome",
+    "copy": "One of Hackney's best loved parks, Cissold Park is an open space in Stoke Newington, east London. A great place to escape from the business of the city with facilities including a paddling pool, a multi use games area and even a butterfly dome.",
     "hotness": 1.0739,
     "lat": 51.5601859,
     "lng": -0.0905030000000124
@@ -2644,7 +2644,7 @@ var parksData = [
     "hashtag": "grandunioncanal",
     "posts": "22,587",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/grandunioncanal.jpg",
-    "copy": "The Grand Union Canal connects London and Birmingham. The Paddington Arm runs through the heart of west London and is now home to lots of bars, resturants, shops and even juice bars. The perfect place for a stroll and drink in the sun",
+    "copy": "The Grand Union Canal connects London and Birmingham. The Paddington Arm runs through the heart of west London and is now home to lots of bars, resturants, shops and even juice bars. The perfect place for a stroll and drink in the sun.",
     "hotness": 1.07,
     "lat": 52.147161,
     "lng": -0.805962799999975
@@ -2655,7 +2655,7 @@ var parksData = [
     "hashtag": "highgatecemetery",
     "posts": "19,847",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/highgatecemetery.jpg",
-    "copy": "Grade II listed cemetery found in north London. You'll find many famous people buried here, with Karl Marx arguably being the most famous burial. Once seen as a creepy cemetery filled with mobs of stake-carrying vampire hunters, it is now one of London's most visited and photgraphed spots",
+    "copy": "Grade II listed cemetery found in north London. You'll find many famous people buried here, with Karl Marx arguably being the most famous burial. Once seen as a creepy cemetery filled with mobs of stake-carrying vampire hunters, it is now one of London's most visited and photgraphed spots.",
     "hotness": 1.0547,
     "lat": 51.5669271,
     "lng": -0.147070900000017
@@ -2666,7 +2666,7 @@ var parksData = [
     "hashtag": "crystalpalacepark",
     "posts": "19,000",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/crystalpalacepark.jpg",
-    "copy": "Crystal Palace Park, situated in south east London is the perfect place for families to explore and learn. Famous for its giant diosaur statues in the Dinosaur Court and hosts one of the largest mazes in the country, it's a must visit for families ",
+    "copy": "Crystal Palace Park, situated in south east London is the perfect place for families to explore and learn. Famous for its giant diosaur statues in the Dinosaur Court and hosts one of the largest mazes in the country, it's a must visit for families. ",
     "hotness": 1.05,
     "lat": 51.4218504,
     "lng": -0.0723852999999508
@@ -2677,7 +2677,7 @@ var parksData = [
     "hashtag": "russellsquare",
     "posts": "18,998",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/russellsquare.jpg",
-    "copy": "Russell Square in Bloomsbury, is a large garden square. The square was named after the surname of the Earls and Dukes of Bedford. Now, it's a picturesque landscapre found in the heart of London. Head here if the city is getting a little too much",
+    "copy": "Russell Square in Bloomsbury, is a large garden square. The square was named after the surname of the Earls and Dukes of Bedford. Now, it's a picturesque landscapre found in the heart of London. Head here if the city is getting a little too much.",
     "hotness": 1.05,
     "lat": 51.52175,
     "lng": -0.125890000000027
@@ -2688,7 +2688,7 @@ var parksData = [
     "hashtag": "hylandspark",
     "posts": "15,327",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hylandspark.jpg",
-    "copy": "Hylands Park is a public park found in Havering, near Romford. The park has been awarded a Green Flag status",
+    "copy": "Hylands Park is a public park found in Havering, near Romford. The park has been awarded a Green Flag status.",
     "hotness": 1.0296,
     "lat": 51.571810,
     "lng": 0.201627
@@ -2710,7 +2710,7 @@ var parksData = [
     "hashtag": "oakspark",
     "posts": "14,402",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/oakspark.jpg",
-    "copy": "Oaks Park is a public park in Carshalton, Sutton, London. The Park lent its name to the Oaks horserace ran annually during the Derby meeting at Epsom Downs Racecourse",
+    "copy": "Oaks Park is a public park in Carshalton, Sutton, London. The Park lent its name to the Oaks horserace ran annually during the Derby meeting at Epsom Downs Racecourse.",
     "hotness": 1.0245,
     "lat":  51.339034,
     "lng": -0.165271
@@ -2721,7 +2721,7 @@ var parksData = [
     "hashtag": "wandsworthcommon",
     "posts": "14,206",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/wandsworthcommon.jpg",
-    "copy": "South west London is well provided with parks and open green space. Wandsworth Common is located in Wandsworth and is made up of woods, lakes and a heath. Facilitites also include playgrounds and cafes",
+    "copy": "South west London is well provided with parks and open green space. Wandsworth Common is located in Wandsworth and is made up of woods, lakes and a heath. Facilitites also include playgrounds and cafes.",
     "hotness": 1.0234,
     "lat": 51.4531647,
     "lng": -0.169007999999963
@@ -2743,7 +2743,7 @@ var parksData = [
     "hashtag": "newingtongreen",
     "posts": "13,196",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/newingtongreen.jpg",
-    "copy": "An open space in north London found between Islington and Hackney. Many locals make use of the green space to escape London life. It is believed Samuel Pepys was sent there in oprder to benefit from the fresh air",
+    "copy": "An open space in north London found between Islington and Hackney. Many locals make use of the green space to escape London life. It is believed Samuel Pepys was sent there in order to benefit from the fresh air.",
     "hotness": 1.0178,
     "lat": 51.5516773,
     "lng": -0.0856505000000425
@@ -2754,7 +2754,7 @@ var parksData = [
     "hashtag": "trentpark",
     "posts": "12,330",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/trentpark.jpg",
-    "copy": "Trent Park is a traditional English country house found in north London. Until 2012, the house itself formed the Trent Park campus of Middlesex University. Before being turned into a sports hall, the indoor tennis court was attended by royalty",
+    "copy": "Trent Park is a traditional English country house found in north London. Until 2012, the house itself formed the Trent Park campus of Middlesex University. Before being turned into a sports hall, the indoor tennis court was attended by royalty.",
     "hotness": 1.013,
     "lat": 51.6590545,
     "lng": -0.138849499999992
@@ -2765,7 +2765,7 @@ var parksData = [
     "hashtag": "grovepark",
     "posts": "11,823",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/grovepark.jpg",
-    "copy": "Grove Park is a residential area in south east London, situated in the London Borough of Lewisham",
+    "copy": "Grove Park is a residential area in south east London, situated in the London Borough of Lewisham.",
     "hotness": 1.0101,
     "lat": 51.435473,
     "lng": 0.0202788999999939
@@ -2776,7 +2776,7 @@ var parksData = [
     "hashtag": "wimbledonpark",
     "posts": "11,070",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/wimbledonpark.jpg",
-    "copy": "Wimbledon Park is an urban park found in Wimbledon, south west London. You'll find tennis courts, a beach volleyball court and facilities for sailing, kayaking and canoeing. A large firework display is help every November and is one of the most popular shows in London",
+    "copy": "Wimbledon Park is an urban park found in Wimbledon, south west London. You'll find tennis courts, a beach volleyball court and facilities for sailing, kayaking and canoeing. A large firework display is help every November and is one of the most popular shows in London.",
     "hotness": 1.006,
     "lat": 51.4359333,
     "lng": -0.2101811
@@ -2787,7 +2787,7 @@ var parksData = [
     "hashtag": "hackneymarshes",
     "posts": "10,919",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hackneymarshes.jpg",
-    "copy": "Area of grassland on the western bank of the River Lea in Hackney, east London. It now forms part of the Olympic Park for the 2012 games. In 2012 BBC Radio One bought it's infamous big weekend to Hackney Marshes with huge names such as Jay-Z and Rhianna playing",
+    "copy": "Area of grassland on the western bank of the River Lea in Hackney, east London. It now forms part of the Olympic Park for the 2012 games. In 2012 BBC Radio One bought it's infamous big weekend to Hackney Marshes with huge names such as Jay-Z and Rhianna playing.",
     "hotness": 1.0051,
     "lat": 51.5529718,
     "lng": -0.0255217999999786
@@ -2798,7 +2798,7 @@ var parksData = [
     "hashtag": "dulwichpark",
     "posts": "9,999",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/dulwichpark.jpg",
-    "copy": "A green park situated in Dulwich, south east London. Designed by Sexby who also designed Battersea and Southwark park. Between 2004-06, the park was restored to it's origional Victorian layout. The park is perfect for walking your dog or a family day out, don't forget to hire a boat on a lake",
+    "copy": "A green park situated in Dulwich, south east London. Designed by Sexby who also designed Battersea and Southwark park. Between 2004-06, the park was restored to it's origional Victorian layout. The park is perfect for walking your dog or a family day out, don't forget to hire a boat on a lake.",
     "hotness": 1,
     "lat": 51.4430278,
     "lng": -0.0792632999999796
@@ -3256,7 +3256,9 @@ var activeMarkers = [];
 /* FUNCTIONS */
 
 function initMap() {
-    
+
+  console.log('init map baby!');
+
   var london = {
     lat: 51.502716,
     lng: -0.144281
