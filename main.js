@@ -3442,7 +3442,7 @@ function createMarkers(locationsData, category) {
 
     google.maps.event.addListener(marker, 'click', function() {
       infoBubble.close();
-      infoBubble.setContent('<img src="' + this.image + '" style="max-width: 286px;" /><div class="info" style="display: inline; position: absolute; top: 0; width: 60%; padding: 15px;box-sizing: border-box;"><h4 class="amber">' + this.name + '</h4>' + '<p class="category">' + this.category + '</p>' + '<p><span class="amber">#</span>' + this.hashtag + '</p><p><span class="amber"> Posts: </span>  ' + this.posts + '</p><p class="copy">' + this.copy + '</p></div>');
+      infoBubble.setContent('<img src="' + this.image + '" style="max-width: 286px;" /><div class="info" style="display: inline; position: absolute; top: 0; width: 62%; padding: 15px;box-sizing: border-box;"><h4 class="amber">' + this.name + '</h4>' + '<p class="category">' + this.category + '</p>' + '<p><span class="amber">#</span>' + this.hashtag + '</p><p><span class="amber"> Posts: </span>  ' + this.posts + '</p><p class="copy">' + this.copy + '</p></div>');
       infoBubble.open(map, this);
 
       // add styles to the popup
