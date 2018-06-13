@@ -3310,7 +3310,7 @@ function createMarkers(locationsData, category) {
       arrowStyle: 0,
       minHeight: 286,
       maxHeight: 286,
-      minWidth: 600,
+      minWidth: 660,
       closeSrc: 'https://www.thistle.com/d/thistle/media/insta_map_assets/black/close-btn2x_f74344.png'
     });
   } else {
