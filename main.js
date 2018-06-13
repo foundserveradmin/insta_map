@@ -1073,7 +1073,7 @@ var foodData = [
     "hashtag": "cerealkillercafe",
     "posts": "23,544",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/cerealkillercafe.jpg",
-    "copy": "Breakfast is the most important meal of the day. Having your first meal at the Cereal Killer Caf' means not only will you be filled up for the day but also retrieve some of your precious childhood memories. \r\n",
+    "copy": "Breakfast is the most important meal of the day. Having your first meal at the Cereal Killer Cafe means not only will you be filled up for the day but also retrieve some of your precious childhood memories.",
     "hotness": 5.7644,
     "lat": 51.5237469,
     "lng": -0.0713390999999319
@@ -1106,7 +1106,7 @@ var foodData = [
     "hashtag": "acecafelondon",
     "posts": "19,708",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/acecafelondon.jpg",
-    "copy": "Rock's Roll is not dead at Ace's Caf'. Established as long ago as in 1938, this first London's roadhouse diner is the capital of the \"cafe racing\" phenomenon.  Visit it for a hearty full English Breakfast and a cup of black coffee to keep the levels of adrenaline and energy up.  ",
+    "copy": "Rock's Roll is not dead at Ace's Cafe. Established as long ago as in 1938, this first London's roadhouse diner is the capital of the \"cafe racing\" phenomenon.  Visit it for a hearty full English Breakfast and a cup of black coffee to keep the levels of adrenaline and energy up.  ",
     "hotness": 4.9613,
     "lat": 51.5412794,
     "lng": -0.277766199999974
@@ -1128,7 +1128,7 @@ var foodData = [
     "hashtag": "thewolseley",
     "posts": "12,463",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/thewolseley.jpg",
-    "copy": "It's hard to pass by The Wolseley without wanting to step in, even for a quick tipple. This all-day, ritzy  - style caf' sits right in the middle of the iconic Piccadilly Street, waiting for you to come in and enjoy the delights of European Grand Caf' Traditional cuisine. ",
+    "copy": "It's hard to pass by The Wolseley without wanting to step in, even for a quick tipple. This all-day, ritzy  - style cafe sits right in the middle of the iconic Piccadilly Street, waiting for you to come in and enjoy the delights of European Grand Cafe Traditional cuisine. ",
     "hotness": 3.4445,
     "lat": 51.5074095,
     "lng": -0.140920300000062
@@ -1222,23 +1222,23 @@ var foodData = [
     "lng": -0.14232370000002
   },
   {
-    "name": "Regency Caf'",
+    "name": "Regency Cafe",
     "category": "Food & Dining",
     "hashtag": "regencycafe",
     "posts": "2,584",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/regencycafe.jpg",
-    "copy": "Described as 'stodgetastic' by TimeOut, you should have a good indication of what to expect at this art deco themed caf'. Regency Caf' is frequently ranked as one of the best restaurants in London, take a trip and see for yourself. ",
+    "copy": "Described as 'stodgetastic' by TimeOut, you should have a good indication of what to expect at this art deco themed cafe. Regency Cafe is frequently ranked as one of the best restaurants in London, take a trip and see for yourself. ",
     "hotness": 1.3762,
     "lat": 51.4939939,
     "lng": -0.132223500000009
   },
   {
-    "name": "Union Street Caf'",
+    "name": "Union Street Cafe",
     "category": "Food & Dining",
     "hashtag": "unionstreetcafe",
     "posts": "2,460",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/unionstreetcafe.jpg",
-    "copy": "No two days are ever the same at Union Street Caf', due to the daily changing menu. This converted warehouse, located in Southwark, serves Mediterranean dishes. The best part about? Gordan Ramsey is the owner.",
+    "copy": "No two days are ever the same at Union Street Cafe, due to the daily changing menu. This converted warehouse, located in Southwark, serves Mediterranean dishes. The best part about? Gordan Ramsey is the owner.",
     "hotness": 1.3503,
     "lat": 51.5035938,
     "lng": -0.101238999999964
