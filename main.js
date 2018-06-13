@@ -3256,9 +3256,7 @@ var activeMarkers = [];
 /* FUNCTIONS */
 
 function initMap() {
-
-  console.log('init map baby!');
-
+    
   var london = {
     lat: 51.502716,
     lng: -0.144281
