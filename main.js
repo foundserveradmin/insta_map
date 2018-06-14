@@ -2787,7 +2787,7 @@ var parksData = [
     "hashtag": "hackneymarshes",
     "posts": "10,919",
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/hackneymarshes.jpg",
-    "copy": "Area of grassland on the western bank of the River Lea in Hackney, east London. It now forms part of the Olympic Park for the 2012 games. In 2012 BBC Radio One bought it's infamous big weekend to Hackney Marshes with huge names such as Jay-Z and Rhianna playing.",
+    "copy": "Area of grassland on the western bank of the River Lea in Hackney, east London. It now forms part of the Olympic Park for the 2012 games. In 2012 BBC Radio One bought it's infamous big weekend to Hackney Marshes with huge names such as Jay-Z and Rihanna playing.",
     "hotness": 1.0051,
     "lat": 51.5529718,
     "lng": -0.0255217999999786
@@ -3312,7 +3312,7 @@ function createMarkers(locationsData, category) {
       arrowStyle: 0,
       minHeight: 286,
       maxHeight: 286,
-      minWidth: 660,
+      minWidth: 700,
       closeSrc: 'https://www.thistle.com/d/thistle/media/insta_map_assets/black/close-btn2x_f74344.png'
     });
   } else {
