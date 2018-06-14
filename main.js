@@ -1460,8 +1460,8 @@ var foodData = [
     "image": "https://www.thistle.com/d/thistle/media/insta_map_assets/thistle/towerrestaurant.jpg",
     "copy": "A huge wine selection, live music and an outstanding seasonal British menu are just some of the reasons you should check out the OXO Tower Restaurant. Located along the Southbank on the OXO Tower rooftop, you'll have views to die for.",
     "hotness": 1.0067,
-    "lat": 51.5087515,
-    "lng": -0.151571800000056
+    "lat": 51.508367,
+    "lng": -0.108316
   },
   {
     "name": "The Ivy",
