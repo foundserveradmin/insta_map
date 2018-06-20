@@ -3330,8 +3330,8 @@ function createMarkers(locationsData, category) {
       arrowPosition: 50,
       backgroundClassName: 'info-content',
       arrowStyle: 0,
-      minHeight: 286,
-      maxHeight: 286,
+      minHeight: 284,
+      maxHeight: 284,
       minWidth: 572,
       closeSrc: 'https://www.thistle.com/d/thistle/media/insta_map_assets/black/close-btn2x_f74344.png'
     });
